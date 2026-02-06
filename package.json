@@ -1,0 +1,22 @@
+{
+  "name": "playwright-demo-tees20252",
+  "version": "1.0.0",
+  "description": "TEES 2025.2 Project Demonstration",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo-rac2/playwright-demo-tees20252.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo-rac2/playwright-demo-tees20252/issues"
+  },
+  "homepage": "https://github.com/rodrigo-rac2/playwright-demo-tees20252#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.1"
+  }
+}
