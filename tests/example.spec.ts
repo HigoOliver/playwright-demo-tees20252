@@ -9,7 +9,7 @@ test('deve carregar o site de registro a partir de `automationtesting.in`', asyn
   await page.getByRole('button', { name: 'Skip Sign In' }).click();
 
   // Assert
-  await expect(page.getByRole('heading', { name: 'Registre-se' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Register' })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Automation Demo Site' })).toBeVisible();
   await expect(page.getByRole('textbox', { name: 'First Name' })).toBeVisible();
   await expect(page.getByRole('textbox', { name: 'Last Name' })).toBeVisible();
