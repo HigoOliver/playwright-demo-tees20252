@@ -1,5 +1,7 @@
 Funcionalidade: Text Box
 
+História: Como usuário, posso preencher campos de texto para registrar minhas informações pessoais
+
 Cenário: Enviar formulário com todos os campos preenchidos corretamente
 Dado que o usuário está na página Text Box do DemoQA
 Quando preenche todos os campos com seus dados pessoais

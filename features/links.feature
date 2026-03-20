@@ -1,5 +1,7 @@
 Funcionalidade: Links
 
+História: Como usuário, posso interagir com links para navegar ou obter respostas do sistema
+
 Cenário: Abrir a página inicial em uma nova aba ao clicar no link Home
 Dado que o usuário está na página de Links do DemoQA
 Quando clica no link Home
